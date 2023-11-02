@@ -141,7 +141,7 @@ elif dashboard_page == "Carbon Emissions":
         querystring = {"distance": str(distance), "vehicle": vehicle}
 
         headers = {
-            "X-RapidAPI-Key": "ec044fc6eamshb257fa6cb563ee7p10ade4jsn46202fbc0f63",
+            "X-RapidAPI-Key": API_KEY,
             "X-RapidAPI-Host": "carbonfootprint1.p.rapidapi.com"
         }
 
