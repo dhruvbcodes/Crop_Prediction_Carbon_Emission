@@ -1,0 +1,1 @@
+## Crop Prediction and Carbon Emissions Calculation for Supply Chain Management 
