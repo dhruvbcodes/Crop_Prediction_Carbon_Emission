@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import requests
 
-API_KEY = st.secrets(['API_KEY'])
+API_KEY = st.secrets['API_KEY']
 
 # Load the trained model
 with open('best_model.pkl', 'rb') as model_file:
